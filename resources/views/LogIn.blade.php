@@ -39,16 +39,7 @@
             </div>
             <div class="card-body scroll">
                 <p class="card-text">
-                    <strong>Welcome to Bani e-Market</strong>, your number one source for all product in the Bani e-Market.
-                    We're dedicated to giving you the very best product that satisfy your needs in the market,
-                    with a fresh vegetables and spices, meats, fruits, and others <strong><br>Founded in 2021 by:<br> R. Puda, "reynielpuda85@gmail.com" <br><br>
-                    with co-founders:<br> R.Ortillo,"rannyortillo011@gmail.com" <br> Ma. A. Santos "santosmaangelika@gmail.com",<br> M. Laderas, "maeladeras26@gmail.com"<br> S. Cabuburac,"sheilacabuburac@yahoo.com"<br></strong> <i>Bani Market</i> wants to give you the best experience 
-                    in buying products in Bani Market. When R.Puda with co-founders first started out, their passion for e-commerce drove 
-                    them to make an website that brings an easy way to buy in the market so that Bani e-Market can offer you
-                     the most reliable and easy access to the market - e.g. "the world's most advanced toothbrush". 
-                     We now serve customers all over Bani town, and are thrilled that we're able to turn our passion
-                      into our own website.We hope you enjoy [our] website as much as we enjoy offering them to you. 
-                      If you have any questions or comments, please don't hesitate to contact us.<br><br><br><strong>Sincerely,Bani e-Market Team</strong>
+                    <strong>Edited...</strong>
                 </p>
             </div>
         </div>
