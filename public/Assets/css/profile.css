@@ -1,0 +1,52 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: #ffeef9;
+    overflow: hidden;
+}
+
+.nav-top {
+    background-image: url('images/navimg.png');
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 2px solid #fe4164;
+    position: fixed;
+}
+
+.logon {
+    width: 8%;
+    height: 8%;
+    float: left;
+}
+
+.nav-link-text {
+    font-size: larger;
+}
+
+.navbar-nav li {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.nav-title {
+    font-size: x-large;
+}
+
+.mon-log {
+    margin-top: 12%;
+}
+.btn-back{
+    float: left;
+}
+.btn-out{
+    float: right;
+}
+.img-prof{
+    height: 90%;
+    width: 90%;
+}

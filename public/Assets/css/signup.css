@@ -1,0 +1,42 @@
+body,
+html {
+    height: 100%;
+}
+body {
+    background-color: #ffeef9;
+}
+.card{
+    border-radius: 3%;
+}
+.container{
+    width: 40%;
+    margin: auto;
+    left: 30%;
+    margin-top: 2% !important;
+    position: fixed;
+    overflow: hidden;
+}
+.card-body{
+    background-color: #ffeef9;
+}
+.btn-submit{
+    float: right;
+}
+.btn-cancel{
+    float: left;
+}
+.navbar{
+    overflow: -moz-hidden-unscrollable hidden;
+}
+.form-check-label{
+    width: 70px;
+}
+.card {
+    border: 2px solid red;
+}
+.modal-title{
+    color: #fff;
+}
+.modal-body{
+    background-color: #ffeef9;
+}

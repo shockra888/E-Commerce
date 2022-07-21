@@ -1,0 +1,136 @@
+html, body{
+    height: 100%;
+}
+body {
+    background-color: #ffeef9;
+}
+
+.form-control {
+    box-shadow: none;
+    border-radius: 4px;
+}
+
+.navbar {
+    background-image: url('images/navimg.png');
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar .navbar-brand {
+    font-size: 30px;
+    font-family: Copperplate, Papyrus, fantasy;
+    padding-left: 0;
+}
+
+.navbar-right{
+    margin-top: 0.5%;
+    margin-right: 1%;
+}
+
+.navbar .navbar-brand b {
+    font-weight: bold;
+    color: #000000;
+}
+
+.navbar ul.nav li a {
+    color: #999;
+}
+
+.navbar ul.nav li a:hover,
+.navbar ul.nav li a:focus {
+    color: #29c68c !important;
+}
+
+.navbar ul.nav li.active>a,
+.navbar ul.nav li.open>a {
+    color: #26bb84 !important;
+    background: transparent !important;
+}
+
+.navbar .form-inline .input-group-addon {
+    box-shadow: none;
+    border-radius: 2px 0 0 2px;
+    font-size: 16px;
+}
+
+.navbar .form-inline i {
+    font-size: 16px;
+}
+
+.navbar .form-inline .btn {
+    border-radius: 2px; 
+}
+
+.navbar .form-inline .btn:hover,
+.navbar .form-inline .btn:focus {
+    background: pink;
+}
+
+
+.navbar .login-form .form-control {
+    max-width: 158px;
+    border-radius: 0 2px 2px 0;
+}
+
+.navbar .dropdown-menu {
+    border-radius: 1px;
+    border-color: #e5e5e5;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .05);
+}
+
+.logon{
+    width:8%;
+    height:8%;
+    float: left;
+}
+.ml16 {
+    color: #402d2d;
+    font-weight: 800;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    overflow: hidden;
+    text-align: center;
+}
+
+.ml16 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+.jumbs{
+    width: 100%;
+    margin-top: 15%;
+    border: 1px solid red;
+}
+.formlab{
+    float: left;
+}
+.card{
+    margin-top: 4%;
+}.scroll {
+    max-height: 430px;
+    overflow-y: auto;
+}
+.card-text{
+    text-align: justify;
+    font-size: larger;
+}
+.card-body{
+    background-color: #ffeef9;
+}
+.card-img-top{
+    height: 530px;
+}
+.bannerP{
+    margin-top: 6%;
+}
+.scroll1 {
+    max-height: 505px;
+    overflow-y: auto;
+}
+.back-btn{
+    float: right;
+}
+
